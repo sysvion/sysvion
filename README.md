@@ -4,7 +4,8 @@ I'm also responsible for a [website](https://www.delftschezwervers.nl) of a stud
 - sign up for meals.
 - Show what we are going to do.
 - Upload foto's to a photoalbum.
-- Update contact information.
-And i'm mostly doing UX. And development of backend technologies.
+- And more!
+
+I'm mostly doing UX. And development of our backend technologies.
 
 With a mathematics student, we're trying to add an encrypted chat function to the student association website. With everything homemade! But giving to option for default encrypting for the ones wo don't trust the implementation.
